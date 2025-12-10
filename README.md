@@ -1,10 +1,4 @@
-I’ll treat this like building you a personal “algorithm playbook” for interviews.
-
-I can’t literally cover *every* imaginable trick, but I *can* give you a taxonomy of patterns that, in practice, covers well over 90% of junior–mid interview problems if you really own them.
-
----
-
-## 1. Master list of patterns (with priority for junior roles)
+## 1. Master list of patterns
 
 **Legend**
 
@@ -976,10 +970,3 @@ If I were you and my job depended on it, I’d:
 4. **Review your own solutions**: after solving, ask:
     - Which pattern did I use?
     - Is there a more standard template that would have simplified this?
-
----
-
-If you’d like, in the next step I can:
-
-- Take a few LeetCode problems you’re worried about and classify them into these patterns,
-- Or help you build a weekly training plan around this pattern list.
